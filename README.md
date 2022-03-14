@@ -1,7 +1,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MotorTruck1221&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 ---
 <h1 align="center">Hi 👋, There! I'm MotorTruck1221</h1>
-<h3 align="center">And I am a sixteen year old highscooler in the U.S. I love making fun programs and doing fun stuff with code. I love making website and messing around with Javascript frameworks. I am okay at Graphic and 3D design, but drawing and others are not my thing. I love being creative and love thinking. I do tons of things, I have a podcast(The ActuallyGamerzPodcast down below), a Youtube Channel(https://www.youtube.com/channel/UCYA9_u5gCXom3M6wf9aDvWg), I make and sell NFT's(https://coolgiraffesnft.tk), and I am trying to make a video game. I also made a host a discord bot named Bebopbotba. (https://unblockedhaven.cf/discord-bot/)</h3>
+<h3 align="center">I love making fun programs and doing fun stuff with code. I love making website and messing around with Javascript frameworks. I am okay at Graphic and 3D design, but drawing and others are not my thing. I love being creative and love thinking. I do tons of things, I have a podcast(The ActuallyGamerzPodcast down below), a Youtube Channel(https://www.youtube.com/channel/UCYA9_u5gCXom3M6wf9aDvWg), I make and sell NFT's(https://coolgiraffesnft.tk), and I am trying to make a video game. I also made a host a discord bot named Bebopbotba. (https://unblockedhaven.cf/discord-bot/)</h3>
 
 
 - 🔭 I’m currently working on [Unblocked Haven and unblocked games website that has fun games to play.](https://unblockedhaven.cf)
