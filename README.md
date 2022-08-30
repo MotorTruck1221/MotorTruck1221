@@ -66,7 +66,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=motortruck1221&show_icons=true&locale=en&layout=compact" alt="motortruck1221" /></p>
 
 
-<h3 align="left">Thanks For Checking My Gihub Profile Out!</h3>
+<h3 align="left">Thanks For Checking My Github Profile Out!</h3>
 
 ---
 ![github contribution grid snake animation](https://raw.githubusercontent.com/motortruck1221/motortruck1221/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/motortruck1221/motortruck1221/output/github-contribution-grid-snake.svg#gh-light-mode-only)
