@@ -4,13 +4,13 @@
 <h3 align="center">I love making fun programs and doing fun stuff with code. I love making website and messing around with Javascript frameworks. I am okay at Graphic and 3D design, but drawing and others are not my thing. I love being creative and love thinking. I do tons of things, I have a podcast(The ActuallyGamerzPodcast down below), a Youtube Channel(https://www.youtube.com/channel/UCYA9_u5gCXom3M6wf9aDvWg), I make and sell NFT's(https://coolgiraffesnft.tk), and I am trying to make a video game. I also made a host a discord bot named Bebopbotba. (https://unblockedhaven.cf/discord-bot/)</h3>
 
 
-- 🔭 I’m currently working on [Unblocked Haven and unblocked games website that has fun games to play.](https://unblockedhaven.cf)
+- 🔭 I’m currently working on [Natant Network](https://github.com/natant-network)
 
-- 🌱 I’m currently learning **Javascript, NodeJS, Python, and how to make beatsaber mods, maps and, sabers(For Oculus Quest 2)**
+- 🌱 I’m currently learning **Javascript, NodeJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MotorTruck1221/](https://github.com/MotorTruck1221/) or [https://gitlab.com/MotorTruck1221](https://gitlab.com/MotorTruck1221)
 
-- 📫 How to reach me **you can reach me through my Discord, or by email: unspontaneouscombustion@gmail.com**
+- 📫 **You can reach me through my Discord, or by email: motortruck1221@motortruck1221.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
