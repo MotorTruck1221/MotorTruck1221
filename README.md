@@ -8,7 +8,6 @@ I like to make stuff
 ## Some of my projects 
 - More projects here (and a blog that I will eventually use): https://motortruck1221.is-a.dev
 - [Ruby](https://github.com/ruby-network/ruby)
-- [Bare Server Go](https://github.com/ruby-network/bare-server-go)
 - [Flashplayer](https://github.com/allancoding/flashplayer)
 - [PrismOS](https://github.com/prismnet)
 
