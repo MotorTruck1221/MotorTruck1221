@@ -6,7 +6,7 @@ I like to make stuff
 
 ---
 ## Some of my projects 
-- More projects here (and a blog that I will eventually use): https://motortruck1221.is-a.dev
+- More projects here (and a blog that I will eventually use): https://motortruck1221.com
 - [Ruby](https://github.com/ruby-network/ruby)
 - [Flashplayer](https://github.com/allancoding/flashplayer)
 - [PrismOS](https://github.com/prismnet)
