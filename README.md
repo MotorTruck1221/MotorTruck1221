@@ -6,10 +6,18 @@ I like to make stuff
 
 ---
 ## Some of my projects 
-- More projects here (and a blog that I will eventually use): https://motortruck1221.com
+### Personal
+  - [My Personal Website & Blog](https://motortruck1221.com)
+  - [Flashplayer](https://github.com/allancoding/flashplayer)
+  - [PrismOS](https://github.com/prismnet)
+  - [Dreamland Stuff (Vite-plugin-dreamland & create-dreamland-app)](https://github.com/motortruck1221/dreamland-stuff)
+### Proxy Stuff
 - [Ruby](https://github.com/ruby-network/ruby)
-- [Flashplayer](https://github.com/allancoding/flashplayer)
-- [PrismOS](https://github.com/prismnet)
+- [Rammerhead (fork, adding updates and easier to implement)](https://github.com/ruby-network/rammerhead)
+- [Incognito](https://github.com/titaniumnetwork-dev/incognito)
+- [Nebula (I help maintain & implement features)](https://github.com/nebulaservices/nebula)
+- <a href="https://corlink.rubynetwork.co">Corlink: alternative to [Masqr](https://github.com/titaniumnetwork-dev/masqrproject)</a>
+- [Byod Bot: A discord bot allowing anyone to implement BYOD (bring your own domain) into their service (semi) easily](https://github.com/Ruby-Network/byod-bot)
 
 ---
 ##  Badges
